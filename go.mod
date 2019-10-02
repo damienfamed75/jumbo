@@ -1,3 +1,3 @@
-module github.com/arjanvaneersel/go-rust
+module github.com/damienfamed75/jumbo
 
-go 1.12
+go 1.13
